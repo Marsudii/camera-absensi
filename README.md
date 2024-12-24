@@ -1,4 +1,4 @@
-## Camera Absensi
+## Camera attendance
 
 This project is a simple camera attendance system using the webcam.js library. This project is made using the HTML, CSS, and JavaScript programming languages.
 
